@@ -8,7 +8,3 @@
    format: git commit -m "Title" -m "Description".
 6. git push - save your changes to the server e.g. Github.
    for Git push you need to connect your local machine to your Github Account.
-
-   Hello , Hello
-   trying to commit changes and then push them to github
-   let's see if you are visible
