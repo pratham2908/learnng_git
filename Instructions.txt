@@ -17,3 +17,4 @@ Branching:
 3. Git branch -v: Lists all local and remote branches.
 4. Git checkout <branchName>: Switches to branchName.
 5. Git branch -d <branchName>: Deletes a branch locally (you should not be on the branch that you are deleting)
+6. coming in 2nd part
