@@ -10,9 +10,9 @@
    for Git push you need to connect your local machine to your Github Account.
 
 
-<<<<<<< HEAD
+
    This is the branch master and here we are trying to see how branching and merging works in git and github.
-   
+
 Branching:
 1. Git branch: will tell all the local branches and the branch on which you are working.
 2. Git branch <branchName>: Creates a new local branch
@@ -20,4 +20,4 @@ Branching:
 4. Git checkout <branchName>: Switches to branchName.
 5. Git branch -d <branchName>: Deletes a branch locally (you should not be on the branch that you are deleting)
 6. coming in 2nd part
->>>>>>> pratham
+
