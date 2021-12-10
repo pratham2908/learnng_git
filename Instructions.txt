@@ -8,4 +8,7 @@
    format: git commit -m "Title" -m "Description".
 6. git push - save your changes to the server e.g. Github.
    for Git push you need to connect your local machine to your Github Account.
-sdfsdfsdfsdf
+
+
+   This is the branch master and here we are trying to see how branching and merging works in git and github.
+   
